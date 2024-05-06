@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+* {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.box {
+  background-color: rgb(7, 197, 7);
+  color: white;
+  cursor: pointer;
+}
+
+.head {
+  color: rgb(241, 125, 29);
+}
+
+.nav-items {
+  cursor: pointer;
+  color: rgb(47, 98, 207);
+  transition: 1s;
+}
+
